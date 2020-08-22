@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Shourya Mundra',
   name: '',
   subtitle: '',
   cta: '',
@@ -83,7 +83,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'github.com/shouryamundra',
     },
   ],
 };
